@@ -103,7 +103,7 @@
     <!-- Bootstrap core JavaScript
     ================================================== -->
     <!-- Placed at the end of the document so the pages load faster -->
-        <script src="<?php echo base_url();?>assets/js/vendor/jquery-1.11.0.min.js"></script>
+    <script src="<?php echo base_url();?>assets/js/vendor/jquery-1.11.0.min.js"></script>
 
     <script src="<?php echo base_url();?>assets/js/vendor/core-1.0.5.js"></script>
 
@@ -235,6 +235,27 @@
         )
         document.getElementsByTagName("head")[0].appendChild(msViewportStyle)
       }
+    </script>
+	<script type="text/javascript">
+      $('document').ready(function() {
+          /*
+
+          Sorting
+
+          */
+          $('#portfolio-sorting').rivaSorting({
+            showAll : 1
+          });
+          /*
+
+          Footer News Slider
+
+          */
+          $('#footer-news').rivaSlider({
+            visible : 1,
+            selector : 'envor-post-preview'
+          });
+      });
     </script>
   </body>
 </html>

@@ -13,8 +13,8 @@
               Contact information start
 
               //-->
-              <p class="contacts"><i class="fa fa-phone"></i> 802-701-9763</p>
-              <p class="contacts"><i class="fa fa-envelope"></i> <a href="">support@envor.com</a></p>
+              <p class="contacts">SMPN 9 Sungai Penuh</p>
+             <p class="contacts"><i class="fa fa-phone"></i> 802-701-9763</p>
               <!--
 
               Contact information end
@@ -69,7 +69,7 @@
                 //-->
                 <a href="<?php echo base_url();?>">
                 <div class="envor-logo">
-                  <img src="<?php echo base_url();?>assets/img/site-logo.png" alt="Envor Logo">
+                  <img src="<?php echo base_url();?>assets/img/icon-smp.png" alt="Envor Logo">
                   <p class="logo">SMPN9</p>
                   <p class="tagline">&nbsp;Sungai Penuh Jambi </p>
                 <!--
@@ -93,32 +93,30 @@
                       <a href="#">Profil</a>
                       <ul>
                         <li>
-                          <a href="#">Sejarah Sekolah</a>                        
+                          <a href="<?php echo base_url()."index.php/welcome/sejarah"; ?>">Sejarah Sekolah</a>                        
                         </li>
-                        <li><a href="#">Visi & Misi</a></li>
-                        <li><a href="#">Sarana dan prasarana</a></li>
-                        <li><a href="#">Struktur Organisasi</a></li>
-							<ul>
-								<li><a href="">Pengurus Sekolah</a></li>
-								<li><a href="">Dewan Guru</a></li>
-								<li><a href="">OSIS</a></li>
-								<li>
-							</ul>
+                        <li><a href="<?php echo base_url()."index.php/welcome/visimisi"; ?>">Visi & Misi</a></li>
+                        <li><a href="<?php echo base_url()."index.php/welcome/sarana"; ?>">Sarana dan prasarana</a></li>
+                        <li><a href="<?php echo base_url()."index.php/welcome/struktur"; ?>">Struktur Organisasi</a></li>
+							
                       </ul>
                     </li>
                     <li>
-                      <a href="pages.html">Akademik</a>
+                      <a href="#">Akademik</a>
                       <ul>
-                        <li><a href="pages-about.html">Agenda Kegiatan</a></li>
-                        <li><a href="pages-about-single.html">Pengumuman</a></li>
-						<li><a href="pages-about-single.html">Pendaftaran siswa baru</a></li>
+                        <li><a href="<?php echo base_url()."index.php/welcome/agenda"; ?>">Agenda Kegiatan</a></li>
+                        <li><a href="<?php echo base_url()."index.php/welcome/pengumuman"; ?>">Pengumuman</a></li>
+						<li><a href="<?php echo base_url()."index.php/welcome/psb"; ?>">Penerimaan siswa baru</a></li>
                       </ul>
                     </li>
                     <li>
-                      <a href="projects.html">Gallery</a>
-                    </li>                    
-                    <li><a href="contacts-general.html">contacts</a>
-                      
+                      <a href="<?php echo base_url()."index.php/welcome/gallery"; ?>">Gallery</a>
+                    </li>    
+<li>
+                      <a href="<?php echo base_url()."index.php/welcome/berita"; ?>">Berita</a>
+                    </li> 					
+                    <li>
+					<a href="<?php echo base_url()."index.php/welcome/contact"; ?>">contacts</a>  
                     </li>
                   </ul>
               

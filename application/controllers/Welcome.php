@@ -29,4 +29,44 @@ class Welcome extends CI_Controller {
 		//$this->load->view('welcome_message');
 		$this->template->display('content/home');
 	}
+	public function sejarah(){
+		$this->template->display('content/sejarah');
+	}
+	
+	public function gallery(){
+		$this->template->display('content/gallery');
+	}
+	
+	public function berita(){
+		$this->template->display('content/berita');
+	}
+	
+	public function visimisi(){
+		$this->template->display('content/visimisi');
+	}
+	
+	public function sarana(){
+		$this->template->display('content/sarana');
+	}
+	
+	public function struktur(){
+		$this->template->display('content/struktur');
+	}
+	
+	public function agenda(){
+		$this->template->display('content/agenda');
+	}
+	
+	public function pengumuman(){
+		$this->template->display('content/pengumuman');
+	}
+	
+	public function psb(){
+		$this->template->display('content/psb');
+	}
+	
+	public function contact(){
+		$this->template->display('content/contact');
+	}
+	
 }

@@ -10,7 +10,7 @@
         <div class="ls-layer" style="transition3d: 1,4,5,11; transition2d: 3,9,14;">
           <!--LayerSlider background-->
           <img class="ls-bg" src="<?php echo base_url();?>assets/img/4.png" alt="layer1-background">
-          <h1 class="ls-s1 title" style="top: 100px; left: 15px;"><strong>SMP NEGERI 9</strong></h1>
+          <h1 class="ls-s1 title" style="top: 300px; left: 15px;" color="white"><strong>Selamat Datang di SMP NEGERI 9 Sungai Penuh</strong></h1>
           
           </div>
         <!--LayerSlider layer-->
@@ -63,79 +63,14 @@
             Domain Serach Block start
 
             //-->
-            <div class="col-lg-6 col-md-6">
-              <div class="envor-domain-search">
-                <form>
-                  <div class="envor-domain-search-inner">
-                    <input type="text" name="domain_name" placeholder="Search domain name...">
-                    <div class="zone"><span>.com</span> <i class="fa fa-caret-down"></i>
-                    <ul>
-                      <li data-val="com">.com</li>
-                      <li data-val="net">.net</li>
-                      <li data-val="org">.org</li>
-                      <li data-val="tv">.tv</li>
-                    </ul>
-                    </div>
-                    <input type="hidden" name="domain_zone" value="com">
-                  </div>
-                  <input type="submit" value="SEARCH" class="envor-btn envor-btn-secondary envor-btn-normal">
-                </form>
-                <p><a href="">View Domain Price List</a> | <a href="">Bulk Domain Search</a> | <a href="">Transfer Domain</a></p>
-              </div>
-            <!--
-
-            Domain Serach Block end
-
-            //-->
-            </div>
+            <h1><a font="tshoma" ><center>Hidup Hanya Sekali Jangan Dibikin Pusing</center></a></h1>
             <!--
 
             Domains Prices
 
             //-->
-            <div class="col-lg-6 col-md-6">
-              <!--
 
-              Domain Price Item
-
-              //-->
-              <div class="envor-domain-price">
-                <p>.com</p>
-                <small>$4.99/year</small>
-              </div>
-              <!--
-
-              Domain Price Item
-              
-              //-->
-              <div class="envor-domain-price">
-                <p>.org</p>
-                <small>$3.99/year</small>
-              </div>
-              <!--
-
-              Domain Price Item
-              
-              //-->
-              <div class="envor-domain-price">
-                <p>.co</p>
-                <small>$4.45/year</small>
-              </div>
-              <!--
-
-              Domain Price Item
-              
-              //-->
-              <div class="envor-domain-price">
-                <p>.net</p>
-                <small>$2.99/year</small>
-              </div>
-            <!--
-
-            Domains end
             
-            //-->
-            </div>
           </div>
         </div>
       <!--
@@ -145,293 +80,46 @@
       //-->
       </section>
       <!--
-
+		
+		
       Features #2 start
 
       //-->
-      <section class="envor-section envor-section-bg3" data-stellar-background-ratio="0.5">
+	  
+	  <section class="envor-section">
         <div class="container">
           <div class="row">
-            <!--
-
-            Feature #2 Item start
-
-            //-->
-            <div class="col-lg-3 col-md-3 col-sm-6">
-              <article class="envor-feature-2 envor-feature-2-color">
-                <header>
-                  <i class="fa fa-globe"></i><span class="arrow"></span>
-                  lovely
-                </header>
-                <p>Donec cursus ligula ante, non faucibus felis lobortis sed.</p>
-                <p><a href="" class="envor-btn envor-btn-primary envor-btn-small">Details <i class="fa fa-arrow-circle-right"></i></a></p>
-              </article>
-            <!--
-
-            Feature #2 Item end
-
-            //-->
+            <div class="col-lg-6 col-md-6">
+              <figure class="single"><img src="<?php echo base_url(); ?>assets/img/kepsek.jpg" ></figure>
             </div>
-            <!--
+            <div class="col-lg-6 col-md-6">
+              <h2>Sambutan<strong> Kepala sekolah </strong></h2>
+              <p style="text-align:justify;">Puji syukur senantiasa kita panjatkan kepada Tuhan Yang Maha Esa yang tiada putus-putusnya melimpahkan rahmat dan karuniaNya kepada kita semua.
 
-            Feature #2 Item start
+											Website SMP Negeri 226 Jakarta dibuat dengan tujuan untuk memberikan informasi secara menyeluruh kepada masyarakat mengenai kegiatan dan prestasi sekolah, sehingga diharapkan dapat menjadi salah satu sarana interaksi langsung masyarakat dengan SMP Negeri 226 Jakarta.<br><br>
 
-            //-->
-            <div class="col-lg-3 col-md-3 col-sm-6">
-              <article class="envor-feature-2 envor-feature-2-color">
-                <header>
-                  <i class="fa fa-cog"></i><span class="arrow"></span>
-                  exquisite
-                </header>
-                <p>Vivamus sollicitudin nisi rhoncus bibendum suscipit.</p>
-                <p><a href="" class="envor-btn envor-btn-primary envor-btn-small">Details <i class="fa fa-arrow-circle-right"></i></a></p>
-              </article>
-            <!--
+											Secara garis besar website ini berisi tentang, proses pengelolaan SMP Negeri 226 Jakarta, baik pengelolaan akademis maupun administratif. Bagian-bagian tertentu dari website ini diharapkan dapat memberikan informasi yang akurat, resmi dan cepat kepada masyarakat yang bersumber langsung dari akademik, kesiswaan, sarana prasarana dan humas.<br><br>
 
-            Feature #2 Item end
-
-            //-->
-            </div>
-            <!--
-
-            Feature #2 Item start
-
-            //-->
-            <div class="col-lg-3 col-md-3 col-sm-6">
-              <article class="envor-feature-2 envor-feature-2-color">
-                <header>
-                  <i class="fa fa-trophy"></i><span class="arrow"></span>
-                  glorious
-                </header>
-                <p>Pellentesque lacinia, lectus ac varius adipiscing.</p>
-                <p><a href="" class="envor-btn envor-btn-primary envor-btn-small">Details <i class="fa fa-arrow-circle-right"></i></a></p>
-              </article>
-            <!--
-
-            Feature #2 Item end
-
-            //-->
-            </div>
-            <!--
-
-            Feature #2 Item start
-
-            //-->
-            <div class="col-lg-3 col-md-3 col-sm-6">
-              <article class="envor-feature-2 envor-feature-2-color">
-                <header>
-                  <i class="fa fa-flask"></i><span class="arrow"></span>
-                  stunning
-                </header>
-                <p>Fusce mattis sem sed lectus rhoncus nisl nisl tincidunt libero.</p>
-                <p><a href="" class="envor-btn envor-btn-primary envor-btn-small">Details <i class="fa fa-arrow-circle-right"></i></a></p>
-              </article>
-            <!--
-
-            Feature #2 Item end
-
-            //-->
+											Semoga masyarakat dan siswa yang berkepentingan agar dapat memanfaatkan website ini dengan sebaik-baiknya. Kami dari pihak sekolah berharap semoga kita memperoleh kemudahan dalam mencapai cita-cita, untuk kemajuan SMP Negeri 226 Jakarta, bangsa dan negara yang tercinta di masa yang akan datang.</p>
             </div>
           </div>
         </div>
+		<hr>
       <!--
 
-      Features #2 end
+      Text end
 
       //-->
       </section>
-      <!--
-
-      Pricing #1 start
-
-      //-->
-      <section class="envor-section envor-section-align-center">
-        <div class="container">
-          <div class="row">
-            <div class="col-lg-12">
-              <h2>pricing <strong>plans</strong></h2>
-            </div>
-            <!--
-
-            Pricing #1 Item start
-
-            //-->
-            <div class="col-lg-3 col-md-3">
-              <div class="envor-pricing-1">
-                <header>
-                  <div class="plan-title">
-                    <p>basic</p>
-                    <small>For Individuals</small>
-                  </div>
-                  <div class="plan-price">
-                    <p>$4.99</p>
-                    <small>p/mo</small>
-                  </div>
-                </header>
-                <p>Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-                <ul>
-                  <li>250 Mb Disc Space</li>
-                  <li>5 Gb Data Transfer</li>
-                  <li>1 Domain Name</li>
-                  <li>2 FTP Accounts</li>
-                  <li>2 MySQL Databases</li>
-                  <li>Unlimited Emails</li>
-                  <li>24/7 Support</li>
-                </ul>
-                <p><a href="" class="envor-btn envor-btn-primary envor-btn-normal">signup now!</a></p>
-              </div>
-            <!--
-
-            Pricing #1 Item end
-
-            //-->
-            </div>
-            <!--
-
-            Pricing #1 Item start
-
-            //-->
-            <div class="col-lg-3 col-md-3">
-              <div class="envor-pricing-1">
-                <header>
-                  <div class="plan-title">
-                    <p>plus</p>
-                    <small>For small business</small>
-                  </div>
-                  <div class="plan-price">
-                    <p>$7.99</p>
-                    <small>p/mo</small>
-                  </div>
-                </header>
-                <p>Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-                <ul>
-                  <li>250 Mb Disc Space</li>
-                  <li>5 Gb Data Transfer</li>
-                  <li>1 Domain Name</li>
-                  <li>2 FTP Accounts</li>
-                  <li>2 MySQL Databases</li>
-                  <li>Unlimited Emails</li>
-                  <li>24/7 Support</li>
-                </ul>
-                <p><a href="" class="envor-btn envor-btn-primary envor-btn-normal">signup now!</a></p>
-              </div>
-            <!--
-
-            Pricing #1 Item end
-
-            //-->
-            </div>
-            <!--
-
-            Pricing #1 Item start
-
-            //-->
-            <div class="col-lg-3 col-md-3">
-              <div class="envor-pricing-1">
-                <header>
-                  <div class="plan-title">
-                    <p>pro</p>
-                    <small>For big business</small>
-                  </div>
-                  <div class="plan-price">
-                    <p>$9.99</p>
-                    <small>p/mo</small>
-                  </div>
-                </header>
-                <p>Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-                <ul>
-                  <li>250 Mb Disc Space</li>
-                  <li>5 Gb Data Transfer</li>
-                  <li>1 Domain Name</li>
-                  <li>2 FTP Accounts</li>
-                  <li>2 MySQL Databases</li>
-                  <li>Unlimited Emails</li>
-                  <li>24/7 Support</li>
-                </ul>
-                <p><a href="" class="envor-btn envor-btn-primary envor-btn-normal">signup now!</a></p>
-              </div>
-            <!--
-
-            Pricing #1 Item end
-
-            //-->
-            </div>
-            <!--
-
-            Pricing #1 Item start
-
-            //-->
-            <div class="col-lg-3 col-md-3">
-              <div class="envor-pricing-1">
-                <header>
-                  <div class="plan-title">
-                    <p>extra</p>
-                    <small>corporate offer</small>
-                  </div>
-                  <div class="plan-price">
-                    <p>$12.99</p>
-                    <small>p/mo</small>
-                  </div>
-                </header>
-                <p>Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-                <ul>
-                  <li>250 Mb Disc Space</li>
-                  <li>5 Gb Data Transfer</li>
-                  <li>1 Domain Name</li>
-                  <li>2 FTP Accounts</li>
-                  <li>2 MySQL Databases</li>
-                  <li>Unlimited Emails</li>
-                  <li>24/7 Support</li>
-                </ul>
-                <p><a href="" class="envor-btn envor-btn-primary envor-btn-normal">signup now!</a></p>
-              </div>
-            <!--
-
-            Pricing #1 Item end
-
-            //-->
-            </div>
-          </div>
-        </div>
-      <!--
-
-      Pricing #1 end
-
-      //-->
-      </section>
+	  
+	  
+	 
       <!--
 
       Partners start
 
       //-->
-      <section class="envor-section envor-section-st1 envor-section-align-center">
-        <div class="container">
-          <div class="row">
-            <div class="col-lg-12">
-              <h2>our <strong>partners</strong></h2>
-              <div class="envor-relative" id="our-partners">
-                <div class="envor-partner-logo"><div class="inner"><img src="<?php echo base_url();?>assets/img/img4.png" alt=""><span class="helper"></span></div></div>
-                <div class="envor-partner-logo"><div class="inner"><img src="<?php echo base_url();?>assets/img/img4.png" alt=""><span class="helper"></span></div></div>
-                <div class="envor-partner-logo"><div class="inner"><img src="<?php echo base_url();?>assets/img/img4.png" alt=""><span class="helper"></span></div></div>
-                <div class="envor-partner-logo"><div class="inner"><img src="<?php echo base_url();?>assets/img/img4.png" alt=""><span class="helper"></span></div></div>
-                <div class="envor-partner-logo"><div class="inner"><img src="<?php echo base_url();?>assets/img/img4.png" alt=""><span class="helper"></span></div></div>
-                <div class="envor-partner-logo"><div class="inner"><img src="<?php echo base_url();?>assets/img/img4.png" alt=""><span class="helper"></span></div></div>
-                <div class="envor-partner-logo"><div class="inner"><img src="<?php echo base_url();?>assets/img/img4.png" alt=""><span class="helper"></span></div></div>
-                <div class="envor-partner-logo"><div class="inner"><img src="<?php echo base_url();?>assets/img/img4.png" alt=""><span class="helper"></span></div></div>
-                <!--
-                * Our Partners Controls
-                //-->
-                <div class="envor-controls rivaslider-controls"></div>
-              </div>
-            </div>
-          </div>
-        </div>
-      <!--
-
-      Partners end
-
-      //-->
-      </section>
+     
       <!--
 
       Latest News + Testimonials #2 start
@@ -445,241 +133,148 @@
             Latest News start
 
             //-->
-            <div class="col-lg-6 col-md-6">
-              <h2>latest <strong>news</strong></h2>
+            <div class="col-lg-6 col-md-6">  
               <div class="envor-relative" id="latest-news">
-                <!--
+              <aside class="envor-widget envor-search-widget">
+              <h3>Blog <strong>Posts</strong></h3>
+              <div class="envor-widget-inner">
+                <div class="envor-tabs">
+                  <header>
+                    <span><i class="fa fa-calendar"></i></span>
+                    <span><i class="fa fa-star"></i></span>
+                    <span><i class="fa fa-comment"></i></span>
+                  </header>
+                  <article>
+                    <!--
 
-                News Item start
+                    Sidebar Post Item
 
-                //-->
-                <article class="envor-post-preview envor-padding-left-30">
-                  <div class="envor-post-preview-inner">
-                    <div class="header">
-                      <div class="date">
-                        <span class="day">25</span><span class="month">DEC, 13</span>
-                      </div>
-                      <a href="">In pharetra posuere dolor nulla...</a>
+                    //-->
+                    <div class="envor-sidebar-post">
+                        <figure><a href=""><img src="img/img1.png" alt=""></a></figure>
+                      <p class="title"><a href="">Quisque rutrum nibh</a></p>
+                      <small class="meta">By <a href="">admin</a>, <a href="">5 Comments</a></small>
                     </div>
-                    <p>Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Donec ut aliquet enim...</p>
-                  </div>
-                <!--
+                    <!--
 
-                News Item end
-
-                //-->
-                </article>
-                <!--
-
-                News Item start
-
-                //-->
-                <article class="envor-post-preview envor-padding-left-30">
-                  <div class="envor-post-preview-inner">
-                    <div class="header">
-                      <div class="date">
-                        <span class="day">12</span><span class="month">JAN, 14</span>
-                      </div>
-                      <a href="">Vivamus euismod, mauris quis auctor...</a>
+                    Sidebar Post Item
+                    
+                    //-->
+                    <div class="envor-sidebar-post">
+                        <figure><a href=""><img src="img/img1.png" alt=""></a></figure>
+                      <p class="title"><a href="">Integer quis neque</a></p>
+                      <small class="meta">By <a href="">admin</a>, <a href="">5 Comments</a></small>
                     </div>
-                    <p>Vestibulum vitae interdum dolor. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac...</p>
-                  </div>
-                <!--
+                    <!--
 
-                News Item end
-
-                //-->
-                </article>
-                <!--
-
-                News Item start
-
-                //-->
-                <article class="envor-post-preview envor-padding-left-30">
-                  <div class="envor-post-preview-inner">
-                    <div class="header">
-                      <div class="date">
-                        <span class="day">30</span><span class="month">JAN, 14</span>
-                      </div>
-                      <a href="">Etiam mattis turpis non est auctor...</a>
+                    Sidebar Post Item
+                    
+                    //-->
+                    <div class="envor-sidebar-post">
+                        <figure><a href=""><img src="img/img1.png" alt=""></a></figure>
+                      <p class="title"><a href="">Etiam in mattis risus</a></p>
+                      <small class="meta">By <a href="">admin</a>, <a href="">5 Comments</a></small>
                     </div>
-                    <p>Cras luctus venenatis elit. Etiam sagittis felis eu lectus egestas consequat. Nulla non nisi sit amet eros sollicitudin...</p>
-                  </div>
-                <!--
+                  </article>
+                  <article>
+                    <!--
 
-                News Item end
-
-                //-->
-                </article>
-                <!--
-
-                News Item start
-
-                //-->
-                <article class="envor-post-preview envor-padding-left-30">
-                  <div class="envor-post-preview-inner">
-                    <div class="header">
-                      <div class="date">
-                        <span class="day">02</span><span class="month">FEB, 14</span>
-                      </div>
-                      <a href="">Nulla ligula augue, placerat in magna...</a>
+                    Sidebar Post Item
+                    
+                    //-->
+                    <div class="envor-sidebar-post">
+                        <figure><a href=""><img src="img/img1.png" alt=""></a></figure>
+                      <p class="title"><a href="">Duis non sollicitudin</a></p>
+                      <small class="meta">By <a href="">admin</a>, <a href="">5 Comments</a></small>
                     </div>
-                    <p>Ut id commodo diam, eget auctor odio. Aenean convallis, eros id luctus vehicula, risus dolor laoreet magna, nec ultrices...</p>
-                  </div>
-                <!--
+                    <!--
 
-                News Item end
+                    Sidebar Post Item
+                    
+                    //-->
+                    <div class="envor-sidebar-post">
+                        <figure><a href=""><img src="img/img1.png" alt=""></a></figure>
+                      <p class="title"><a href="">Fusce nisl magna</a></p>
+                      <small class="meta">By <a href="">admin</a>, <a href="">5 Comments</a></small>
+                    </div>
+                    <!--
 
-                //-->
-                </article>
-                <!--
+                    Sidebar Post Item
+                    
+                    //-->
+                    <div class="envor-sidebar-post">
+                        <figure><a href=""><img src="img/img1.png" alt=""></a></figure>
+                      <p class="title"><a href="">Nulla varius eget</a></p>
+                      <small class="meta">By <a href="">admin</a>, <a href="">5 Comments</a></small>
+                    </div>
+                  </article>
+                  <article>
+                    <!--
 
-                Navigation News Item start
+                    Sidebar Comment Item
 
-                //-->
-                <div class="envor-navigation envor-navigation-left rivaslider-navigation">
-                  <a href="" class="back"><i class="glyphicon glyphicon-chevron-left"></i></a>
-                  <a href="" class="forward"><i class="glyphicon glyphicon-chevron-right"></i></a>
-                <!--
+                    //-->
+                    <div class="envor-sidebar-comment">
+                      <p><a href="">admin</a> says:</p>
+                      <p class="comment">" Duis consectetur consequat tellus sit amet luctus... "</p>
+                      <p>On <a href="">Posts title here</a></p>
+                    </div>
+                    <!--
 
-                Navigation News Item end
+                    Sidebar Comment Item
+                    
+                    //-->
+                    <div class="envor-sidebar-comment">
+                      <p><a href="">admin</a> says:</p>
+                      <p class="comment">" Duis consectetur consequat tellus sit amet luctus... "</p>
+                      <p>On <a href="">Posts title here</a></p>
+                    </div>
+                    <!--
 
-                //-->
+                    Sidebar Comment Item
+                    
+                    //-->
+                    <div class="envor-sidebar-comment">
+                      <p><a href="">admin</a> says:</p>
+                      <p class="comment">" Duis consectetur consequat tellus sit amet luctus... "</p>
+                      <p>On <a href="">Posts title here</a></p>
+                    </div>
+                  </article>
                 </div>
               </div>
-            <!--
-
-            Latest News end
-
-            //-->
-            </div>
-            <!--
-
-            Testimonials #2 start
-
-            //-->
-            <div class="col-lg-6 col-md-6">
-              <h2>clients <strong>Testimonials</strong></h2>
-              <div class="envor-relative" id="clients-testimonials">
-                <!--
-
-                Testimonials #2 Item start
-
-                //-->
-                <article class="envor-testimonials-2">
-                  <div class="envor-testimonials-2-inner">
-                    <p>Morbi sem erat, scelerisque sed est et, scelerisque rhoncus purus. Aenean varius, est vitae aliquet faucibus, nibh enim vehicula enim, sed tincidunt velit turpis sed ligula.</p>
-                    <p class="author">- Shirley G. Simek, <span>developer</span></p>
-                    <i class="fa fa-quote-left"></i>
-                    <i class="fa fa-quote-right"></i>
-                    <div class="arrow"></div>
-                  </div>
-                <!--
-
-                Testimonials #2 Item end
-
-                //-->
-                </article>
-                <!--
-
-                Testimonials #2 Item start
-
-                //-->
-                <article class="envor-testimonials-2">
-                  <div class="envor-testimonials-2-inner">
-                    <p>Vivamus tristique tincidunt commodo. In scelerisque nisi massa, eget gravida dui placerat a. Vestibulum eu nisi eget metus pellentesque vehicula in in mauris. Cras placerat nunc metus, ut dictum diam mollis et.</p>
-                    <p class="author">- Jerald T. Garland, <span>developer</span></p>
-                    <i class="fa fa-quote-left"></i>
-                    <i class="fa fa-quote-right"></i>
-                    <div class="arrow"></div>
-                  </div>
-                <!--
-
-                Testimonials #2 Item end
-
-                //-->
-                </article>
-                <!--
-
-                Testimonials #2 Item start
-
-                //-->
-                <article class="envor-testimonials-2">
-                  <div class="envor-testimonials-2-inner">
-                    <p>Proin feugiat nibh eget magna imperdiet, vitae suscipit quam egestas. Quisque mauris augue, blandit eget commodo eget, vehicula ac ligula.</p>
-                    <p class="author">- Geraldine M. Parker, <span>developer</span></p>
-                    <i class="fa fa-quote-left"></i>
-                    <i class="fa fa-quote-right"></i>
-                    <div class="arrow"></div>
-                  </div>
-                <!--
-
-                Testimonials #2 Item end
-
-                //-->
-                </article>
-                <!--
-
-                Testimonials #2 Item start
-
-                //-->
-                <article class="envor-testimonials-2">
-                  <div class="envor-testimonials-2-inner">
-                    <p>Ut molestie bibendum felis, vel pharetra elit rhoncus vitae. Nulla feugiat odio eu quam posuere dictum. Phasellus vulputate laoreet mauris, ac adipiscing massa tincidunt nec.</p>
-                    <p class="author">- Paul J. Hardy, <span>developer</span></p>
-                    <i class="fa fa-quote-left"></i>
-                    <i class="fa fa-quote-right"></i>
-                    <div class="arrow"></div>
-                  </div>
-                <!--
-
-                Testimonials #2 Item end
-
-                //-->
-                </article>
-                <!--
-
-                Testimonials #2 Item controls
-
-                //-->
-                <div class="envor-controls envor-controls-left rivaslider-controls"></div>
+            </aside>
+                
+               			
               </div>
-            <!--
-
-            Testimonials #2 end
-
-            //-->
-            </div>
+            </div>            
           </div>
         </div>
-      <!--
-
-      Latest News + Testimonials #2 end
-
-      //-->
       </section>
-      <!--
-
-      Call To Action #2 start
-
-      //-->
-      <section class="envor-section envor-section-st2 envor-section-cta2">
+	  
+	   <section class="envor-page-title-1" data-stellar-background-ratio="0.5">
         <div class="container">
           <div class="row">
             <div class="col-lg-12">
-              <p><span>Like <strong>Envor</strong> Template? Purchase in on ThemeForest!</span> <a href="" class="envor-btn envor-btn-normal envor-btn-border-white"><i class="glyphicon glyphicon-download"></i> purchase and download</a></p>
+              <div class="envor-relative" id="our-partners">
+                <div class="envor-partner-logo"><div class="inner"><img src="<?php echo base_url();?>assets/img/kemdikbud.jpg" width="200" ></div></div>
+                <div class="envor-partner-logo"><div class="inner"><img src="<?php echo base_url();?>assets/img/edukasi.png" width="200" height="150"><span class="helper"></span></div></div>
+                <div class="envor-partner-logo"><div class="inner"><img src="<?php echo base_url();?>assets/img/rumahbelajar.png" width="200" height="150"><span class="helper"></span></div></div>
+                <div class="envor-partner-logo"><div class="inner"><img src="<?php echo base_url();?>assets/img/jardiknas.png" width="200" height="150"><span class="helper"></span></div></div>
+                <div class="envor-partner-logo"><div class="inner"><a href="http://radioedukasi.kemdikbud.go.id"><img src="<?php echo base_url();?>assets/img/radioedukasi.png" width="200" height="150"><span class="helper"></span></a></div></div>
+                <!--
+                * Our Partners Controls
+                
+                <div class="envor-controls rivaslider-controls"></div>
+				 //-->
+              </div>
             </div>
           </div>
         </div>
       <!--
 
-      Call To Action #2 end
+      Partners end
 
       //-->
       </section>
-    <!--
-
-    Envor site content end
-
-    //-->
+	  
     </div>

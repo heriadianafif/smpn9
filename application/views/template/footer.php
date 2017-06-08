@@ -11,9 +11,7 @@
               <h3>about</h3>
               <div class="envor-widget-inner">
                 <p>Aliquam pulvinar eros vel sem ultrices, ac eleifend libero molestie. Maecenas lacinia est a scelerisque facilisis. Vestibulum a mi eget orci suscipit elementum.</p>
-                <p class="contacts"><i class="fa fa-envelope"></i> <a href="">support@envor.com</a></p>
-                <p class="contacts"><i class="fa fa-phone"></i> 252-724-9708<br>252-724-9709</p>
-                <p class="contacts"><i class="fa fa-map-marker"></i> 121 King Street, Melbourne  Victoria 3000, Australia</p>
+                
                 <p class="links">
                   <a href=""><i class="fa fa-facebook"></i></a>
                   <a href=""><i class="fa fa-twitter"></i></a>
@@ -39,15 +37,6 @@
               <h3>newsletters</h3>
               <div class="envor-widget-inner">
                 <p>Quisque nec sapien laoreet, tempus justo vel, scelerisque lectus. Praesent ac urna quis neque aliquam mattis nec et tortor.</p>
-                <p>&nbsp;</p>
-                <div class="quick_newsletter">
-                  <form action="../../php/process.php">
-                    <input name="name" id="name" value="Name" class="text" onblur="_hint(this,'Name',1)" onclick="_hint(this,'Name',0)" type="text">
-                    <input name="email" id="email" value="email" class="text" onblur="_hint(this,'email',1)" onclick="_hint(this,'email',0)" type="text">
-                    <input name="submit" value="Subscribe me!" class="envor-btn envor-btn-primary envor-btn-normal" onclick="doSubscribe(this,'#subscribe_response_div');" type="button">
-                  </form>
-                </div>
-                <span id="subscribe_response_div"></span>
               </div>
             </div>
           <!--
@@ -58,70 +47,50 @@
           </div>
           <!--
 
-          Footer Latest News Widget start
+          Footer Latest Tweets Widget start
 
           //-->
-          <div class="col-lg-3 col-md-3">
-            <div class="envor-widget envor-latest-news-2-widget">
-              <h3>latest <strong>news</strong></h3>
+			<div class="col-lg-3 col-md-3">
+            <div class="envor-widget envor-contacts-widget">
+              <h3>Contacts</h3>
               <div class="envor-widget-inner">
-                <ul>
-                  <li>
-                    <p class="title"><a href="">Mauris pellentesque luctus</a></p>
-                    <small>DECEMBER, 13 | by admin</small>
-                    <p>Maecenas lobortis varius sapien, eu ultricies est vulputate in...</p>
-                  </li>
-                  <li>
-                    <p class="title"><a href="">Fusce non mattis quam</a></p>
-                    <small>JANUARY, 11 | by admin</small>
-                    <p>Suspendisse potenti. Curabitur sapien metus, dignissim nec risus...</p>
-                  </li>
-                  <li>
-                    <p class="title"><a href="">Suspendisse in interdum nunc</a></p>
-                    <small>JANUARY, 28 | by admin</small>
-                    <p>Donec venenatis turpis ac aliquam posuere. Duis commodo, massa...</p>
-                  </li>
-                </ul>
+                <p>
+                  <i class="fa fa-map-marker"></i>
+                  Amar Sakti, Sungai Penuh, Aur Duri, Sungai Penuh, Kota Sungai Penuh, Jambi 37111, Indonesia
+                </p>
+                <p>
+                  <i class="fa fa-phone"></i>
+                  731-509-5843
+                </p>
+                <p>
+                  <i class="fa fa-envelope"></i>
+                  <a href="">support@envor.com</a>
+                </p>
               </div>
             </div>
           <!--
 
-          Footer Latest News Widget end
+          Footer Contacts Widget end
 
           //-->
           </div>
           <!--
 
-          Footer Latest Tweets Widget start
+          Footer Contacts Widget end
 
           //-->
-          <div class="col-lg-3 col-md-3">
-            <div class="envor-widget envor-latest-tweets-widget">
-              <h3>recent <strong>tweets</strong></h3>
-              <script>twitterFetcher.fetch('428880392213381120', 'twitter-posts', 5, true, true, false);</script>
-              <div class="envor-widget-inner" id="latest-tweets">
-                <!--
-
-                Retrieve Tweets
-
-                //-->
-                <div class="envor-latest-tweets" id="twitter-posts"></div>
-                <!--
-
-                Tweets Navigation
-
-                //-->
-                <div class="envor-navigation envor-navigation-left rivaslider-navigation">
-                  <a href="" class="back"><i class="glyphicon glyphicon-chevron-left"></i></a>
-                  <a href="" class="forward"><i class="glyphicon glyphicon-chevron-right"></i></a>
-                </div>
+		  <div class="col-lg-3 col-md-3">
+            <div class="envor-widget envor-contacts-widget">
+              <h3>Lokasi</h3>
+              <div class="envor-widget-inner">
+                <p>
+                  <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3987.221857405496!2d101.39098051445997!3d-2.0671675984930795!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e2da1aa33c5f7f5%3A0x4afd47805d9c9691!2sSMP+Negeri+9+Sungai+Penuh!5e0!3m2!1sid!2sid!4v1496872599957" width="100%" height="100%" frameborder="0" style="border:0" allowfullscreen></iframe>
+			  </div>
+                </p>
               </div>
             </div>
-          <!--
-
-          Footer Latest Tweets Widget end
-
-          //-->
+		  
+		  
           </div>
           <!--
 
@@ -131,8 +100,8 @@
           <div class="col-lg-12">
             <div class="envor-widget envor-copyright-widget">
               <div class="envor-widget-inner">
-                <p>© Copyright 2013 by <a href="">envor</a>. All Rights Reserved.</p>
-                <p><a href="">home</a> / <a href="">faq</a> / <a href="">contacts</a></p>
+			  
+                <p>© Copyright 2017 by <a href="">SMP NEGRI 9 Sungai Penuh</a>. All Rights Reserved.</p>
               </div>
             </div>
           <!--
