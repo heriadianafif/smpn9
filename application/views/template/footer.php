@@ -8,10 +8,10 @@
           //-->
           <div class="col-lg-3 col-md-3">
             <div class="envor-widget envor-about-widget">
-              <h3>about</h3>
+              <h3>Tentang SMPN 9 Sungai Penuh</h3>
               <div class="envor-widget-inner">
-                <p>Aliquam pulvinar eros vel sem ultrices, ac eleifend libero molestie. Maecenas lacinia est a scelerisque facilisis. Vestibulum a mi eget orci suscipit elementum.</p>
-                
+                <p>Website ini merupakan sumber informasi di dalam SMPN 9 Sungai Penuh, JAMBI. Segala kegiatan hingga berita ter-Update mengenai sekolah ini akan di Publish disini.</p>
+
                 <p class="links">
                   <a href=""><i class="fa fa-facebook"></i></a>
                   <a href=""><i class="fa fa-twitter"></i></a>
@@ -34,9 +34,9 @@
           //-->
           <div class="col-lg-3 col-md-3">
             <div class="envor-widget envor-about-widget">
-              <h3>newsletters</h3>
+              <h3>Berita Terkini</h3>
               <div class="envor-widget-inner">
-                <p>Quisque nec sapien laoreet, tempus justo vel, scelerisque lectus. Praesent ac urna quis neque aliquam mattis nec et tortor.</p>
+                <p>Berita ter-Update mengenai perkembangan sekolah hingga event-event akan di informasikan melalui website. Terima Kasih atas kunjungan kalian. REGARDS.</p>
               </div>
             </div>
           <!--
@@ -64,7 +64,7 @@
                 </p>
                 <p>
                   <i class="fa fa-envelope"></i>
-                  <a href="">support@envor.com</a>
+                  <a href="">support@smpn9sungaipenuh.com</a>
                 </p>
               </div>
             </div>
@@ -89,8 +89,8 @@
                 </p>
               </div>
             </div>
-		  
-		  
+
+
           </div>
           <!--
 
@@ -100,7 +100,7 @@
           <div class="col-lg-12">
             <div class="envor-widget envor-copyright-widget">
               <div class="envor-widget-inner">
-			  
+
                 <p>© Copyright 2017 by <a href="">SMP NEGRI 9 Sungai Penuh</a>. All Rights Reserved.</p>
               </div>
             </div>

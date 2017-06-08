@@ -81,9 +81,9 @@
           <p>Untuk memudahkan informasi lebih lanjut, kalian data menghubungi kami pada layanan kontak berikut. Luangkan waktumu untuk informasi yang bermanfaat ini, TERIMA KASIH :)</p>
           <p>&nbsp;</p>
           <h3><strong>contact</strong> info</h3>
-          <p class="contact-item"><i class="fa fa-map-marker"></i> Jl. Pajang Raya No.xxx Bencongan/Kelapa Dua Tangerang - Banten</p>
-          <p class="contact-item"><i class="fa fa-phone"></i> 0813-1234-5678</p>
-          <p class="contact-item"><i class="fa fa-envelope"></i> <a href="#">ret-tech@gmail.com</a></p>
+          <p class="contact-item"><i class="fa fa-map-marker"></i> Amar Sakti, Sungai Penuh, Aur Duri, Sungai Penuh, Kota Sungai Penuh, Jambi 37111, Indonesia</p>
+          <p class="contact-item"><i class="fa fa-phone"></i> 731-509-5834</p>
+          <p class="contact-item"><i class="fa fa-envelope"></i> <a href="#">support@smpn9sungaipenuh.com</a></p>
         <!--
 
         Contact Info end
@@ -128,7 +128,7 @@
         //-->
 		</form>
         </div>
-    
+
     </div>
   <!--
 

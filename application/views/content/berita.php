@@ -18,7 +18,7 @@
 
       //-->
       </section>
-	  
+
 	  <section class="envor-section">
         <div class="container">
           <div class="row">
@@ -35,10 +35,10 @@
                   <figcaption></figcaption>
                 </figure>
                 <header>
-                  <h3><i class="fa fa-pencil"></i> <a>Morbi convallis malesuada ante</a></h3>
-                  <p>posted in <a>development</a> by <a>admin</a></p>
+                  <h3><i class="fa fa-pencil"></i> <a>Juara Terbaik Infrastruktur Sekolah</a></h3>
+                  <p>posted in <a>SMPN 9</a> by <a>admin</a></p>
                 </header>
-                <p>Curabitur pulvinar, lorem id lobortis pellentesque, leo est cursus arcu, eget porta lorem augue at elit. Sed pharetra turpis eget justo iaculis tempor. Duis eu vulputate sem. Sed ac eros sed risus auctor viverra eu in nulla. In posuere gravida dui, vel ullamcorper erat tristique nec. Pellentesque vel urna vel dolor pretium dapibus quis eget justo...</p>
+                <p>Sekolah dengan infrastruktur terbaik se-JAMBI.</p>
                 <p><a href="" class="envor-btn envor-btn-small envor-btn-secondary-border">Selengkapnya<i class="fa fa-arrow-circle-right"></i></a></p>
                 <div class="date">
                   <span class="day">24</span>
@@ -65,10 +65,10 @@
                   <figcaption></figcaption>
                 </figure>
                 <header>
-                  <h3><i class="fa fa-pencil"></i> <a>Morbi convallis malesuada ante</a></h3>
-                  <p>posted in <a>development</a> by <a>admin</a></p>
+                  <h3><i class="fa fa-pencil"></i> <a>Juara 1 Inovasi Teknologi Komputer se-JAMBI</a></h3>
+                  <p>posted in <a>SMPN 9</a> by <a>admin</a></p>
                 </header>
-                <p>Curabitur pulvinar, lorem id lobortis pellentesque, leo est cursus arcu, eget porta lorem augue at elit. Sed pharetra turpis eget justo iaculis tempor. Duis eu vulputate sem. Sed ac eros sed risus auctor viverra eu in nulla. In posuere gravida dui, vel ullamcorper erat tristique nec. Pellentesque vel urna vel dolor pretium dapibus quis eget justo...</p>
+                <p>Bukti nyata generasi melek teknologi, Juara 1 Inovasi Teknologi Komputer se-JAMBI.</p>
                 <p><a href="" class="envor-btn envor-btn-small envor-btn-secondary-border">Selengkapnya <i class="fa fa-arrow-circle-right"></i></a></p>
                 <div class="date">
                   <span class="day">24</span>
@@ -95,10 +95,10 @@
                   <figcaption></figcaption>
                 </figure>
                 <header>
-                  <h3><i class="fa fa-pencil"></i> <a>Morbi convallis malesuada ante</a></h3>
-                  <p>posted in <a>development</a> by <a>admin</a></p>
+                  <h3><i class="fa fa-pencil"></i> <a>Juara 1 Lomba Tari se-Jambi Tingkat SMP</a></h3>
+                  <p>posted in <a>SMPN 9</a> by <a>admin</a></p>
                 </header>
-                <p>Curabitur pulvinar, lorem id lobortis pellentesque, leo est cursus arcu, eget porta lorem augue at elit. Sed pharetra turpis eget justo iaculis tempor. Duis eu vulputate sem. Sed ac eros sed risus auctor viverra eu in nulla. In posuere gravida dui, vel ullamcorper erat tristique nec. Pellentesque vel urna vel dolor pretium dapibus quis eget justo...</p>
+                <p>Generasi berkebudayaan sesuai dengan para leluhur bangsa, Juara 1 Lomba Tari se-Jambi Tingkat SMP.</p>
                 <p><a href="" class="envor-btn envor-btn-small envor-btn-secondary-border">Selengkapnya<i class="fa fa-arrow-circle-right"></i></a></p>
                 <div class="date">
                   <span class="day">24</span>
@@ -125,10 +125,10 @@
                   <figcaption></figcaption>
                 </figure>
                 <header>
-                  <h3><i class="fa fa-pencil"></i> <a>Morbi convallis malesuada ante</a></h3>
-                  <p>posted in <a>development</a> by <a>admin</a></p>
+                  <h3><i class="fa fa-pencil"></i> <a>Fasilitas Ibadah Terbaik Dan Terlengkap</a></h3>
+                  <p>posted in <a>SMPN 9</a> by <a>admin</a></p>
                 </header>
-                <p>Curabitur pulvinar, lorem id lobortis pellentesque, leo est cursus arcu, eget porta lorem augue at elit. Sed pharetra turpis eget justo iaculis tempor. Duis eu vulputate sem. Sed ac eros sed risus auctor viverra eu in nulla. In posuere gravida dui, vel ullamcorper erat tristique nec. Pellentesque vel urna vel dolor pretium dapibus quis eget justo...</p>
+                <p>Generasi yang toleransi, ibadah menjadikan siswa-siswi penuh dengan etika toleransi dan saling menghargai sesama antar umat beragama.</p>
                 <p><a href="" class="envor-btn envor-btn-small envor-btn-secondary-border">Selengkapnya <i class="fa fa-arrow-circle-right"></i></a></p>
                 <div class="date">
                   <span class="day">24</span>
@@ -155,10 +155,10 @@
                   <figcaption></figcaption>
                 </figure>
                 <header>
-                  <h3><i class="fa fa-pencil"></i> <a>Morbi convallis malesuada ante</a></h3>
-                  <p>posted in <a>development</a> by <a>admin</a></p>
+                  <h3><i class="fa fa-pencil"></i> <a>Laboratorium Sains Terbaik se-Jambi tingkat SMP</a></h3>
+                  <p>posted in <a>SMPN 9</a> by <a>admin</a></p>
                 </header>
-                <p>Curabitur pulvinar, lorem id lobortis pellentesque, leo est cursus arcu, eget porta lorem augue at elit. Sed pharetra turpis eget justo iaculis tempor. Duis eu vulputate sem. Sed ac eros sed risus auctor viverra eu in nulla. In posuere gravida dui, vel ullamcorper erat tristique nec. Pellentesque vel urna vel dolor pretium dapibus quis eget justo...</p>
+                <p>Sains adalah ilmu pasti yang membatu perkembangan zaman, fasilitas ini di tujukan untuk mereka yang memiliki niat dan potensi untuk mempelajari tingkat lanjut ilmu sains.</p>
                 <p><a href="" class="envor-btn envor-btn-small envor-btn-secondary-border">Selengkapnya<i class="fa fa-arrow-circle-right"></i></a></p>
                 <div class="date">
                   <span class="day">24</span>
@@ -190,12 +190,12 @@
 
               //-->
               </div>
-			  
+
             </div>
 		  <!--
 			Sidebar Right
 		  -->
-		  
+
 		  <div class="col-lg-3 col-md-3">
               <!--
 
@@ -248,7 +248,7 @@
 
             //-->
             <aside class="envor-widget envor-search-widget">
-              <h3>Blog <strong>Posts</strong></h3>
+              <h3>Pendapat <strong>Mereka</strong></h3>
               <div class="envor-widget-inner">
                 <div class="envor-tabs">
                   <header>
@@ -263,61 +263,61 @@
 
                     //-->
                     <div class="envor-sidebar-post">
-                      <figure><a href=""><img src="img/img1.png" alt=""></a></figure>
-                      <p class="title"><a href="">Quisque rutrum nibh</a></p>
-                      <small class="meta">By <a href="">admin</a>, <a href="">5 Comments</a></small>
+                      <figure><a href="#"><img src="<?php echo base_url();?>assets/img/kemdikbud.jpg" alt=""></a></figure>
+                      <p class="title"><a href="#">KEMDIKBUD</a></p>
+                      <small class="meta">By <a href="#">Noval</a>, <a href="#">5 Comments</a></small>
                     </div>
                     <!--
 
                     Sidebar Post Item
-                    
+
                     //-->
                     <div class="envor-sidebar-post">
-                      <figure><a href=""><img src="img/img1.png" alt=""></a></figure>
-                      <p class="title"><a href="">Integer quis neque</a></p>
-                      <small class="meta">By <a href="">admin</a>, <a href="">5 Comments</a></small>
+                      <figure><a href="#"><img src="<?php echo base_url();?>assets/img/jardiknas.png" alt=""></a></figure>
+                      <p class="title"><a href="#">JARDIKNAS</a></p>
+                      <small class="meta">By <a href="#">AFIF</a>, <a href="#">5 Comments</a></small>
                     </div>
                     <!--
 
                     Sidebar Post Item
-                    
+
                     //-->
                     <div class="envor-sidebar-post">
-                      <figure><a href=""><img src="img/img1.png" alt=""></a></figure>
-                      <p class="title"><a href="">Etiam in mattis risus</a></p>
-                      <small class="meta">By <a href="">admin</a>, <a href="">5 Comments</a></small>
+                      <figure><a href="#"><img src="<?php echo base_url();?>assets/img/rumahbelajar.png" alt=""></a></figure>
+                      <p class="title"><a href="#">RUMAH BELAJAR</a></p>
+                      <small class="meta">By <a href="#">Afdal</a>, <a href="#">5 Comments</a></small>
                     </div>
                   </article>
                   <article>
                     <!--
 
                     Sidebar Post Item
-                    
+
                     //-->
                     <div class="envor-sidebar-post">
-                      <figure><a href=""><img src="img/img1.png" alt=""></a></figure>
-                      <p class="title"><a href="">Duis non sollicitudin</a></p>
-                      <small class="meta">By <a href="">admin</a>, <a href="">5 Comments</a></small>
+                      <figure><a href="#"><img src="<?php echo base_url();?>assets/img/rumahbelajar.png" alt=""></a></figure>
+                      <p class="title"><a href="#">RUMAH BELAJAR</a></p>
+                      <small class="meta">By <a href="#">YUDA</a>, <a href="#">5 Comments</a></small>
                     </div>
                     <!--
 
                     Sidebar Post Item
-                    
+
                     //-->
                     <div class="envor-sidebar-post">
-                      <figure><a href=""><img src="img/img1.png" alt=""></a></figure>
-                      <p class="title"><a href="">Fusce nisl magna</a></p>
-                      <small class="meta">By <a href="">admin</a>, <a href="">5 Comments</a></small>
+                      <figure><a href="#"><img src="<?php echo base_url();?>assets/img/jardiknas.png" alt=""></a></figure>
+                      <p class="title"><a href="#">JARDIKNAS</a></p>
+                      <small class="meta">By <a href="#">Septian</a>, <a href="#">5 Comments</a></small>
                     </div>
                     <!--
 
                     Sidebar Post Item
-                    
+
                     //-->
                     <div class="envor-sidebar-post">
-                      <figure><a href=""><img src="img/img1.png" alt=""></a></figure>
-                      <p class="title"><a href="">Nulla varius eget</a></p>
-                      <small class="meta">By <a href="">admin</a>, <a href="">5 Comments</a></small>
+                      <figure><a href="#"><img src="<?php echo base_url();?>assets/img/kemdikbud.jpg" alt=""></a></figure>
+                      <p class="title"><a href="#">KEMDIKBUD</a></p>
+                      <small class="meta">By <a href="#">Samudra</a>, <a href="#">5 Comments</a></small>
                     </div>
                   </article>
                   <article>
@@ -327,29 +327,29 @@
 
                     //-->
                     <div class="envor-sidebar-comment">
-                      <p><a href="">admin</a> says:</p>
-                      <p class="comment">" Duis consectetur consequat tellus sit amet luctus... "</p>
-                      <p>On <a href="">Posts title here</a></p>
+                      <p><a href="#">Fadal</a> says:</p>
+                      <p class="comment">" Amazing of Infrastructure. "</p>
+                      <p>On <a href="#">Januari 2017</a></p>
                     </div>
                     <!--
 
                     Sidebar Comment Item
-                    
+
                     //-->
                     <div class="envor-sidebar-comment">
-                      <p><a href="">admin</a> says:</p>
-                      <p class="comment">" Duis consectetur consequat tellus sit amet luctus... "</p>
-                      <p>On <a href="">Posts title here</a></p>
+                      <p><a href="#">Zikri</a> says:</p>
+                      <p class="comment">" keren banget, SMP 9 udah punya laboraorium yang lengkap... :D . "</p>
+                      <p>On <a href="#">Februari 2017</a></p>
                     </div>
                     <!--
 
                     Sidebar Comment Item
-                    
+
                     //-->
                     <div class="envor-sidebar-comment">
-                      <p><a href="">admin</a> says:</p>
-                      <p class="comment">" Duis consectetur consequat tellus sit amet luctus... "</p>
-                      <p>On <a href="">Posts title here</a></p>
+                      <p><a href="#">Saputra</a> says:</p>
+                      <p class="comment">" Tempat Ibadahnya lengkap yaaa, keren. "</p>
+                      <p>On <a href="#">Maret 2017</a></p>
                     </div>
                   </article>
                 </div>
@@ -361,7 +361,7 @@
 
             //-->
             </div>
-		  
+
 		</div>
 	</div>
 	</section>
