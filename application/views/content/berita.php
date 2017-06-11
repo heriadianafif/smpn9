@@ -31,7 +31,7 @@
               //-->
               <article class="envor-post envor-post-2">
                 <figure>
-                  <a href="<?php echo base_url(); ?>assets/img/img1.png" class="colorbox"><img src="<?php echo base_url(); ?>assets/img/img1.png" alt=""></a>
+                  <a href="<?php echo base_url(); ?>assets/img/logo.jpg" class="colorbox"><img src="<?php echo base_url(); ?>assets/img/logo.jpg" alt=""></a>
                   <figcaption></figcaption>
                 </figure>
                 <header>
@@ -61,7 +61,7 @@
               //-->
               <article class="envor-post envor-post-2">
                 <figure>
-                  <a href="<?php echo base_url(); ?>assets/img/img1.png" class="colorbox"><img src="<?php echo base_url(); ?>assets/img/img1.png" alt=""></a>
+                  <a href="<?php echo base_url(); ?>assets/img/logo.jpg" class="colorbox"><img src="<?php echo base_url(); ?>assets/img/logo.jpg" alt=""></a>
                   <figcaption></figcaption>
                 </figure>
                 <header>
@@ -91,7 +91,7 @@
               //-->
               <article class="envor-post envor-post-2">
                 <figure>
-                  <a href="<?php echo base_url(); ?>assets/img/img1.png" class="colorbox"><img src="<?php echo base_url(); ?>assets/img/img1.png" alt=""></a>
+                  <a href="<?php echo base_url(); ?>assets/img/logo.jpg" class="colorbox"><img src="<?php echo base_url(); ?>assets/img/logo.jpg" alt=""></a>
                   <figcaption></figcaption>
                 </figure>
                 <header>
@@ -121,7 +121,7 @@
               //-->
               <article class="envor-post envor-post-2">
                 <figure>
-                  <a href="<?php echo base_url(); ?>assets/img/img1.png" class="colorbox"><img src="<?php echo base_url(); ?>assets/img/img1.png" alt=""></a>
+                  <a href="<?php echo base_url(); ?>assets/img/logo.jpg" class="colorbox"><img src="<?php echo base_url(); ?>assets/img/logo.jpg" alt=""></a>
                   <figcaption></figcaption>
                 </figure>
                 <header>
@@ -151,7 +151,7 @@
               //-->
               <article class="envor-post envor-post-2">
                 <figure>
-                  <a href="<?php echo base_url(); ?>assets/img/img1.png" class="colorbox"><img src="<?php echo base_url(); ?>assets/img/img1.png" alt=""></a>
+                  <a href="<?php echo base_url(); ?>assets/img/logo.jpg" class="colorbox"><img src="<?php echo base_url(); ?>assets/img/logo.jpg" alt=""></a>
                   <figcaption></figcaption>
                 </figure>
                 <header>
@@ -237,7 +237,7 @@
                   </li>
                   <li>
                    <p><a href=""><i class="glyphicon glyphicon-folder-open"></i>Kemdikbud</a></p>
-                    <small>Vestibulum placerat, nulla eu molestie.</small>
+                    <small>i love it.</small>
                   </li>
                 </ul>
               </div>

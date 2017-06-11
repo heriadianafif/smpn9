@@ -8,31 +8,33 @@
             </div>
           </div>
         </div>
-      
+
       </section>
 
 <section class="envor-section envor-section-align-center">
   <div class="container">
     <div class="row">
       <div class="col-lg-6 col-md-6">
-        <figure><img src="<?php echo base_url();?>assets/img/kultur.jpg" alt=""></figure>
+        <figure><img src="<?php echo base_url();?>assets/img/logo.jpg" alt=""></figure>
       </div>
       <div class="col-lg-6 col-md-6 envor-section-align-left">
 	   <ul class="e-color-list ">
         <div class="col-lg-12">
         <h3><strong>VISI</strong></h3>
         </div>
-            <li><i class="glyphicon glyphicon-check"></i>&nbsp;<b>MENCIPTAKAN GENERASI YANG BERAKHLAKUL KHARIMAH, BERKARAKTER, PRESTASI, &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;BERTEKNOLOGI DAN BERKBEBUDAYAAN INDONESIA YANG SESUAI DENGAN LELUHUR &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;BANGSA.</b> </li>
+            <li><i class="glyphicon glyphicon-check"></i>&nbsp;<b>" Berprestasi dalam ilmu, Berbudi pekerti luhur dalam perilaku dan Bertaqwa kepada &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Tuhan Yang Maha Esa" </b> </li>
        </ul>
 		  <ul class="e-color-list e-border-list">
         <div class="col-lg-12">
         <h3><strong>MISI</strong></h3>
         </div>
-          <li><i class="glyphicon glyphicon-check"></i><b> Meningkatkan mutu lulusan rata – rata nilai 8.00 serta proporsi 90% siswa yang lulus.</li>
-          <li><i class="glyphicon glyphicon-check"></i> Memiliki tenaga kependidikan yang professional dan mampu memanfaatkan potensi &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sumber daya secara optimal sesuai kebutuhan.</li>
-          <li><i class="glyphicon glyphicon-check"></i> Meningkatkan inovasi fasilitas pembelajaran dengan pembuatan laboratorium &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;pembelajaran.</li>
-          <li><i class="glyphicon glyphicon-check"></i> Mendorong dan membantu siswa untuk mengenali potensi dirinya sehingga dapat &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;dikembangkan secara optimal.</li>
-          <li><i class="glyphicon glyphicon-check"></i> Menumbuhkan penghayatan terhadap ajaran agama yang dianut sebagai landasan &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;kearifan lokal dalam bergaul dan bertindak.</li>
+          <li><i class="glyphicon glyphicon-check"></i><b> 	Meningkatkan manajemen Berbasis Sekolah secara efektif dan efisien melalui &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; teknologi dan informasi.</li>
+          <li><i class="glyphicon glyphicon-check"></i> 	Meningkatkan KKM mata pelajaran dalam   penerapan KTSP.</li>
+          <li><i class="glyphicon glyphicon-check"></i> 	Melaksanakan pembinaan profesionalisme guru secara kontinu.</li>
+          <li><i class="glyphicon glyphicon-check"></i> 	Meningkatkan kemampuan siswa dalam bidang  teknologi.</li>
+          <li><i class="glyphicon glyphicon-check"></i> 	Melaksanakan pengembangan potensi diri siswa.</li>
+					<li><i class="glyphicon glyphicon-check"></i> 	Menanamkan akhlak mulia dan budi pekerti luhur.</li>
+          <li><i class="glyphicon glyphicon-check"></i> 	Melaksanakan pembinaan keagamaan secara kontinu.</li>
         </ul>
 
       </div>

@@ -60,7 +60,7 @@
                 </p>
                 <p>
                   <i class="fa fa-phone"></i>
-                  731-509-5843
+                  0748 (21222)
                 </p>
                 <p>
                   <i class="fa fa-envelope"></i>

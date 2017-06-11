@@ -9,14 +9,14 @@
         <!--LayerSlider layer-->
         <div class="ls-layer" style="transition3d: 1,4,5,11; transition2d: 3,9,14;">
           <!--LayerSlider background-->
-          <img class="ls-bg" src="<?php echo base_url();?>assets/img/4.png" alt="layer1-background">
+          <img class="ls-bg" src="<?php echo base_url();?>assets/img/77.jpg" alt="layer1-background">
           <h1 class="ls-s1 title" style="top: 300px; left: 15px;" color="white"><strong>Selamat Datang di SMP NEGERI 9 Sungai Penuh</strong></h1>
 
           </div>
         <!--LayerSlider layer-->
         <div class="ls-layer" style="transition3d: 1,4,5,11; transition2d: 2,8,30;">
           <!--LayerSlider background-->
-          <img class="ls-bg" src="<?php echo base_url();?>assets/img/5.png" alt="layer1-background">
+          <img class="ls-bg" src="<?php echo base_url();?>assets/img/ahead2.jpg" alt="layer1-background">
           <div class="envor-layerslider-block ls-s1" style="top: 300px; left: 15px; transition2d: all; slidedelay: 6000; durationin: 1000; easingin: easeOutExpo;">
             <h3>we are</h3>
             <h2>SMPN 9</h2>
@@ -36,7 +36,7 @@
         <!--LayerSlider layer-->
         <div class="ls-layer" style="transition3d: 2,3,6,14; transition2d: 4,5,23;">
           <!--LayerSlider background-->
-          <img class="ls-bg" src="<?php echo base_url();?>assets/img/slider-bg.jpg" alt="layer1-background">
+          <img class="ls-bg" src="<?php echo base_url();?>assets/img/1.jpg" alt="layer1-background">
           <div class="envor-layerslider-block ls-s1" style="top: 300px; left: 15px; transition2d: all; slidedelay: 6000; durationin: 1000; easingin: easeOutExpo;">
             <h3>we are</h3>
             <h2>SMPN 9</h2>
@@ -90,7 +90,7 @@
         <div class="container">
           <div class="row">
             <div class="col-lg-6 col-md-6">
-              <figure class="single"><img src="<?php echo base_url(); ?>assets/img/kepsek.jpg" ></figure>
+              <figure class="single"><img src="<?php echo base_url(); ?>assets/img/kepseksmpn9.jpg" ></figure>
             </div>
             <div class="col-lg-6 col-md-6">
               <h2>Sambutan<strong> Kepala sekolah </strong></h2>

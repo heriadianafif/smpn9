@@ -197,14 +197,14 @@
           <article class="envor-post envor-post-masonry">
             <div class="inner">
             <figure>
-              <a href="<?php echo base_url();?>assets/img/lap.jpg" class="colorbox"><img src="<?php echo base_url();?>assets/img/lap.jpg" alt=""></a>
-              <figcaption><a href="<?php echo base_url();?>assets/img/lap.jpg" title="Lapangan Serba Guna" class="colorbox"><i class="fa fa-plus"></i></a></figcaption>
+              <a href="<?php echo base_url();?>assets/img/perpus.jpg" class="colorbox"><img src="<?php echo base_url();?>assets/img/perpus.jpg" alt=""></a>
+              <figcaption><a href="<?php echo base_url();?>assets/img/perpus.jpg" title="Perpustakaan" class="colorbox"><i class="fa fa-plus"></i></a></figcaption>
             </figure>
             <header>
-              <h3><i class="fa fa-pencil"></i> <a href="#">Lapangan Serba Guna</a></h3>
-              <p>Lapangan Serba Guna</a> for <a href="#">SMPN9 Sungai Penuh</a> in <a href="#">JAMBI</a></p>
+              <h3><i class="fa fa-pencil"></i> <a href="#">Perpustakaan</a></h3>
+              <p>Perpustakaan</a> for <a href="#">SMPN9 Sungai Penuh</a> in <a href="#">JAMBI</a></p>
             </header>
-            <p>Untuk kamu kamu yang hobi futsal, basket, volley, semua kita sediakan lapangannya loh, olahraga biar kuat dan sehat, bukan kuat hadapin kenyataan cintanya.</p>
+            <p>Untuk kamu kamu yang hobi baca buku, haus akan pengetahuan, bacalah buku, buku merupakan jendela dunia, dengan membaca kamu akan kaya akan informasi.</p>
             </div>
           <!--
 
@@ -220,14 +220,14 @@
           <article class="envor-post envor-post-masonry">
             <div class="inner">
             <figure>
-              <a href="<?php echo base_url();?>assets/img/gor.jpg" class="colorbox"><img src="<?php echo base_url();?>assets/img/gor.jpg" alt=""></a>
-              <figcaption><a href="<?php echo base_url();?>assets/img/gor.jpg" title="Gelanggang Olahraga Bulu Tangkis" class="colorbox"><i class="fa fa-plus"></i></a></figcaption>
+              <a href="<?php echo base_url();?>assets/img/kantin.jpg" class="colorbox"><img src="<?php echo base_url();?>assets/img/kantin.jpg" alt=""></a>
+              <figcaption><a href="<?php echo base_url();?>assets/img/kantin.jpg" title="KANTIN" class="colorbox"><i class="fa fa-plus"></i></a></figcaption>
             </figure>
             <header>
-              <h3><i class="fa fa-volume-up"></i> <a href="#">Gelanggang Olahraga Bulu Tangkis</a></h3>
-              <p>Gelanggang Olahraga</a> for <a href="#">SMPN9 Sungai Penuh</a> in <a href="#">JAMBI</a></p>
+              <h3><i class="fa fa-volume-up"></i> <a href="#">Kantin</a></h3>
+              <p>Kantin</a> for <a href="#">SMPN9 Sungai Penuh</a> in <a href="#">JAMBI</a></p>
             </header>
-            <p>Bulu Tangkis adalah salah satu cabang olahraga andalan Indonesia untuk meraih medali emas. latih dirimu disini dan dapatkan beasiswa dari Djarum, serta cinta dari kasihmu.</p>
+            <p>untuk memenuhi gizi yang baik para siswa-siswi, disediakan kantin untuk jajan sehat, agar merka tidak jajan sembarangan..</p>
             </div>
           <!--
 

@@ -18,11 +18,11 @@
 
       //-->
       </section>
-	  
+
 	  <!--
 		Isi Content Sejarah
 	  -->
-	  
+
 	  <section class="envor-section">
         <div class="container">
           <div class="row">
@@ -32,15 +32,15 @@
 
             //-->
             <div class="col-lg-12">
-              <figure><img src="<?php echo base_url(); ?>assets/img/5.png" alt=""></figure>
+              <figure><img src="<?php echo base_url(); ?>assets/img/7.jpg" alt=""></figure>
               <p>&nbsp;</p>
-              <p style="text-align:justify;">SMP Negeri 226 Jakarta berdiri pada tahun 1983 dengan nama SMP Baru Pangkalan Jati. Setelah berjalan dua tahun, pada tahun ajaran 1985/1986 resmi menjadi SMP Negeri 226 yang berlokasi di Jl. Kayu kapur No. 2, Komplek TNI Angkatan Laut Pangkalan Jati, Pondok Labu. Selain itu, pada tahun ajaran tersebut juga ada pembangunan penambahan ruang belajar sebanyak 6 ruang, menjadi 12 ruangan rombongan belajar.<br><br>
+              <p style="text-align:justify;">Sekolah Menengah Umum Tingkat Pertama (SMP) Negeri 9 Kota Sungai Penuh yang berlokasi di Desa Amar Sakti Kecamatan Sungai Penuh Jalan Kol.M.Koekoh.<br><br>
 
-					Selama perjalanan tugas dan fungsinya sebagai lembaga pendidikan, SMP Negeri 226 Jakarta mengalami perkembangan dengan dibukanya kelas jauh pada tahun 1992 hingga tahun 1997 dengan lokasi di Gedung SD 04/05 Lebak Bulus, Jakarta Selatan. Selain itu juga diresmikan menjadi sekolah penyelenggara inklusi tahun 1993. Namun, pada saat itu belum disebut penyelenggara sekolah inklusi tetapi dinamai sekolah terpadu, sehingga di dalam penerimaan siswa baru menerima anak berkebutuhan khusus. Kemudian pada tanggal, 10 Mei tahun ajaran 2011/2012, resmi ditunjuk oleh Dinas Pendidikan Provinsi DKI menjadi sekolah penyelenggara dengan nomor 986/2012.<br><br>
+                Dinegerikan pada Tanggal 05 Mei 1992 Oleh Menteri Pendidikan dan Kebudayaan (FUAD HASSAN) dengan Surat Keputusan Nomor.0216/0/1992. Sebelum Penegerian,
+      sekolah ini bernama SKKP Negeri Sungai Penuh yang Kepala Sekolah nya bernama NY.RASINA  ZEN  dari Sungai Penuh, mulai dari Tahun 1955.Sampai Tahun 1992. Program Studi  yang dilaksanakan disekolah ini adalah Program Ketrampilan Yaitu : 1.Ketrampilan Tata Boga  2. Ketrampilan Tata Busana dimana Dananya langsung dari Pemerintah Pusat. Sekolah ini menjalankan Program Ketrampilan sampai dengan Tahun1997.setelah itu Program ini dihapus dan dikembalikan ke SMP Umum.
+<br><br>
 
-					Pada tahun ajaran 2012/2013 Pemda DKI Jakarta memberikan dana untuk renovasi total gedung SMP Negeri 226 Jakarta, sehingga gedung yang semula 1 lantai menjadi 4 lantai. Peserta Didik kembali belajar di Gedung Baru setelah renovasi selesai pada tanggal 6 Januari 2014.<br><br>
-
-					SMP Negeri 226 Jakarta terus berkembang menjadi lebih baik dengan berbagai penambahan sarana dan prasarana serta meraih berbagai macam prestasi baik akademik maupun non akademik sehingga kemudian dapat memperoleh akreditasi “A” pada tahun 2014.</p>
+					Ibuk Ny.Rasina Zen Menjadi Kepala Sekolah disini sampai Tahun 1994. Karena Ibuk Ny.Rasina Zen Memasuki Masa Pensiun Maka Kepala Sekolah SMP Negeri 9 Kota Sungai Penuh digantikan oleh Bapak DRS.PAHSENEN dari Pondok Tinggi  sampai Tahun 1997 Karena Bapak DRS.PAHSENEN juga memasuki Masa Pensiun Kepala Sekolah digantikan oleh Bapak LUKMAN THALIB S,Pd dari Koto Iman sampai Tahun 1999.karena Bapak LUKMAN THALIB S,Pd waktu itu mengalami sakit berat yang tidak bisa menjalankan tugas maka Kepala sekolah digantikan oleh Bapak Drs.PATRIHADI dari Koto Iman  sampai Tahun 2006. Mulai dari Tahun 2006 sekolah ini dipimpin oleh Ibuk FEBRINA YUSVANELLY dari Pondok Tinggi sampai Tahun 2011. Setelah itu Kepala Sekolah SMP Negeri 9 Kota Sungai Penuh dijabat oleh Bapak DAHMIR,S.Pd dari Desa Tanjung Rawang sampai Sekarang. Fasilitas yang ada disekolah ini antara lain : Labor IPA, Labor Bahasa, Labor TIK, Ruang Kesenian, Ruang UKS Ruang Olah Raga, Koperasi Siswa, Perustakaan, Ruang Guru,Ruang Kepala Sekolah, Ruang Tata Usaha, Ruang Wakil, WC Guru dan WC Siswa, Tenaga Pendidik (Guru PNS) berjumlah 32 Orang Guru Honorer berjumlah 18 Orang Pegawai Tata Usaha berjumlah 6 Orang dan Siswanya Berjumlah 363 Orang Ruang Belajarnya berjumlah 16 Ruang,  dari Tahun ke Tahun sekolah ini mengalami Peningkatan, baik itu jumlah Siswa dan Jumlah Ruang Belajar dan juga jumlah bangunannya jauh bertambah baik dari yang sebelumnya, dalam kegiatan Belajar mengajar di SMP Negeri 9 Kota Sungai Penuh ini siswa tidak dipungut biaya apapun dan .bagi siswa yang kurang mampu akan diusulkan mendapat Bea Siswa Miskin..</p>
 			<!--
 
             Content Section end

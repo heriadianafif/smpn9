@@ -82,7 +82,7 @@
           <p>&nbsp;</p>
           <h3><strong>contact</strong> info</h3>
           <p class="contact-item"><i class="fa fa-map-marker"></i> Amar Sakti, Sungai Penuh, Aur Duri, Sungai Penuh, Kota Sungai Penuh, Jambi 37111, Indonesia</p>
-          <p class="contact-item"><i class="fa fa-phone"></i> 731-509-5834</p>
+          <p class="contact-item"><i class="fa fa-phone"></i> 0748 (21222)</p>
           <p class="contact-item"><i class="fa fa-envelope"></i> <a href="#">support@smpn9sungaipenuh.com</a></p>
         <!--
 
