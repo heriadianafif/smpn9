@@ -116,24 +116,173 @@
 
       <!--
 
-      Partners start
+      project
 
       //-->
-
-      <!--
-
-      Latest News + Testimonials #2 start
-
-      //-->
-      <section class="envor-section envor-section-align-left">
+      <section class="envor-section-lul envor-section-align-center">
         <div class="container">
           <div class="row">
-            <!--
+            <div class="col-lg-12">
+              <h2>latest <strong>NEWS</strong></h2>
+              <p class="block-description">Berita terkini untuk siswa-siswi SMP Negeri 9 Sungai Penuh</p>
+              <div class="envor-relative" id="latest-projects">
+                <!--
 
-            Latest News start
+                Projects Item start
 
-            //-->
-            <div class="col-lg-6 col-md-6">
+                //-->
+                <article class="envor-project envor-padding-left-30">
+                  <div class="envor-project-inner">
+                    <figure><a href=""><img src="<?php echo base_url(); ?>assets/img/LOGO.jpg" alt=""></a><figcaption><a href="<?php echo base_url(); ?>assets/img/LOGO.jpg" title="Morbi sagittis lacinia" class="colorbox"><i class="fa fa-plus"></i></a></figcaption></figure>
+                    <div class="envor-project-details">
+                      <div class="envor-project-likes"><i class="fa fa-thumbs-o-up"></i> 14</div>
+                      <p class="link"><a href="">Morbi sagittis lacinia</a></p>
+                      <p class="filter">javascript, html</p>
+                    </div>
+                  </div>
+                <!--
+
+                Projects Item end
+
+                //-->
+                </article>
+                <!--
+
+                Projects Item start
+
+                //-->
+                <article class="envor-project envor-padding-left-30">
+                  <div class="envor-project-inner">
+                    <figure><a href=""><img src="<?php echo base_url(); ?>assets/img/LOGO.jpg" alt=""></a><figcaption><a href="<?php echo base_url(); ?>assets/img/LOGO.jpg" title="Morbi sagittis lacinia" class="colorbox"><i class="fa fa-plus"></i></a></figcaption></figure>
+                    <div class="envor-project-details">
+                      <div class="envor-project-likes"><i class="fa fa-thumbs-o-up"></i> 21</div>
+                      <p class="link"><a href="">turpis lobortis</a></p>
+                      <p class="filter">web, photo</p>
+                    </div>
+                  </div>
+                <!--
+
+                Projects Item end
+
+                //-->
+                </article>
+                <!--
+
+                Projects Item start
+
+                //-->
+                <article class="envor-project envor-padding-left-30">
+                  <div class="envor-project-inner">
+                    <figure><a href=""><img src="<?php echo base_url(); ?>assets/img/LOGO.jpg" alt=""></a><figcaption><a href="<?php echo base_url(); ?>assets/img/LOGO.jpg" title="Morbi sagittis lacinia" class="colorbox"><i class="fa fa-plus"></i></a></figcaption></figure>
+                    <div class="envor-project-details">
+                      <div class="envor-project-likes"><i class="fa fa-thumbs-o-up"></i> 6</div>
+                      <p class="link"><a href="">Vestibulum tincidunt</a></p>
+                      <p class="filter">css, media</p>
+                    </div>
+                  </div>
+                <!--
+
+                Projects Item end
+
+                //-->
+                </article>
+                <!--
+
+                Projects Item start
+
+                //-->
+                <article class="envor-project envor-padding-left-30">
+                  <div class="envor-project-inner">
+                    <figure><a href=""><img src="<?php echo base_url(); ?>assets/img/LOGO.jpg" alt=""></a><figcaption><a href="<?php echo base_url(); ?>assets/img/LOGO.jpg" title="Morbi sagittis lacinia" class="colorbox"><i class="fa fa-plus"></i></a></figcaption></figure>
+                    <div class="envor-project-details">
+                      <div class="envor-project-likes"><i class="fa fa-thumbs-o-up"></i> 30</div>
+                      <p class="link"><a href="">mauris non egestas</a></p>
+                      <p class="filter">html, photo</p>
+                    </div>
+                  </div>
+                <!--
+
+                Projects Item end
+
+                //-->
+                </article>
+                <!--
+
+                Projects Item start
+
+                //-->
+                <article class="envor-project envor-padding-left-30">
+                  <div class="envor-project-inner">
+                    <figure><a href=""><img src="<?php echo base_url(); ?>assets/img/LOGO.jpg" alt=""></a><figcaption><a href="<?php echo base_url(); ?>assets/img/LOGO.jpg" title="Morbi sagittis lacinia" class="colorbox"><i class="fa fa-plus"></i></a></figcaption></figure>
+                    <div class="envor-project-details">
+                      <div class="envor-project-likes"><i class="fa fa-thumbs-o-up"></i> 17</div>
+                      <p class="link"><a href="">Nam mollis felis</a></p>
+                      <p class="filter">javascript, design</p>
+                    </div>
+                  </div>
+                <!--
+
+                Projects Item end
+
+                //-->
+                </article>
+                <!--
+
+                Projects Item start
+
+                //-->
+                <article class="envor-project envor-padding-left-30">
+                  <div class="envor-project-inner">
+                    <figure><a href=""><img src="<?php echo base_url(); ?>assets/img/LOGO.jpg" alt=""></a><figcaption><a href="<?php echo base_url(); ?>assets/img/LOGO.jpg" title="Morbi sagittis lacinia" class="colorbox"><i class="fa fa-plus"></i></a></figcaption></figure>
+                    <div class="envor-project-details">
+                      <div class="envor-project-likes"><i class="fa fa-thumbs-o-up"></i> 25</div>
+                      <p class="link"><a href="">et diam commodo</a></p>
+                      <p class="filter">develpopment, css</p>
+                    </div>
+                  </div>
+                <!--
+
+                Projects Item end
+
+                //-->
+                </article>
+                <!--
+
+                Projects Navigation start
+
+                //-->
+                <div class="envor-navigation rivaslider-navigation">
+                  <a href="" class="back"><i class="glyphicon glyphicon-chevron-left"></i></a>
+                  <a href="" class="forward"><i class="glyphicon glyphicon-chevron-right"></i></a>
+                <!--
+
+                Projects Navigation end
+
+                //-->
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      <!--
+
+      Projects end
+
+      //-->
+      </section>
+
+	  
+			<section class="envor-section-lul">
+				<div class="container">
+					<div class="row">
+						<div class="col-lg-12 col-md-12">
+							<div id="envor-posts-masonry">
+          <!--
+
+          Post start
+
+          //-->
+          <div class="col-lg-5 col-md-5">
               <div class="envor-relative" id="latest-news">
                 <aside class="envor-widget envor-search-widget">
                   <h3>Pendapat <strong>Mereka</strong></h3>
@@ -241,15 +390,59 @@
                         </div>
                       </article>
                     </div>
-                  </div>
-                </aside>
+                  </div>				  
+				 </div>
+				 </div>
+        <!--
 
+        Right Sidebar start
+		
+			<!--
 
-              </div>
+            Contact Info start
+
+            //-->
+            <div class="col-lg-4 col-md-4">
+              <h3>Whats <strong>On In</strong> SMP Negeri 9 Sungai Penuh</h3>
+              <p>Nullam volutpat sed libero at viverra. Donec ornare viverra quam, sit amet hendrerit nisi suscipit et. Nunc luctus nulla eget neque tempus faucibus. Nunc porttitor ante lacus, quis vulputate felis aliquet sit amet. Aliquam eu arcu dictum, volutpat ligula non, consequat orci.</p><p>Nam tortor eros, aliquam quis gravida in, commodo congue ligula. Suspendisse a malesuada purus.</p>
+              <p>&nbsp;</p>
             </div>
-          </div>
+            <!--
+
+            Contact Form start
+
+            //-->
+            <div class="col-lg-3 col-md-3">
+              <h3><strong>Comments</strong></h3>
+              <form class="envor-f1">
+                <p><label for="drop-name">Your name:*</label><input type="text" id="drop-name" name="drop-name"></p>
+                <p><label for="drop-email">Your email:*</label><input type="text" id="drop-email" name="drop-email"></p>
+                <p><label for="drop-message">Message:</label>
+                  <textarea id="drop-message" placeholder="Your message..."></textarea>
+                </p>
+                <p><a href="#" class="envor-btn envor-btn-normal envor-btn-primary riva-prev-tab margin-left-0">send message</a></p>
+              </form>
+            <!--
+
+            Contact Form end
+
+            //-->
+            </div>
+       
         </div>
-      </section>
+      </div>
+    </div>
+	
+	</div>
+	</div>
+	</div>
+	</section>
+  <!--
+
+  Main Content start
+
+  //-->
+  </section>
 
 	   <section class="envor-page-title-1" data-stellar-background-ratio="0.5">
         <div class="container">
@@ -267,14 +460,7 @@
                 <div class="envor-controls rivaslider-controls"></div>
 				 //-->
               </div>
-            </div>
           </div>
         </div>
-      <!--
-
-      Partners end
-
-      //-->
       </section>
-
     </div>

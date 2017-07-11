@@ -160,7 +160,15 @@
             selector : 'envor-post-preview'
           });
           /*
-
+          Latest Projects Slider
+          
+          */
+          $('#latest-projects').rivaSlider({
+            visible : 4,
+            selector : 'envor-project'
+          });
+          /*
+          
           Testimonials #2 Carousel
 
           */
